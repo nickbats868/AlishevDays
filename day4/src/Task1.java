@@ -79,7 +79,7 @@ public class Task1 {
 
             int sum = 0;
             for(int su = 0;su<array.length;su++){
-                sum = sum + array[su];
+                sum += array[su];
             }
             System.out.println("Sum of all array elements: " + sum);
         }

@@ -1,6 +1,3 @@
-
-import java.util.Scanner;
-
 public class Lesson11_Arrays {
     public static void main(String[] args) {
         int number = 10; //примитивный тип данных
